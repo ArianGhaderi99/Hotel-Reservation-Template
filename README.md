@@ -25,7 +25,7 @@ Responsive Design • Dark Mode • Light Mode • Multi Language • Modern UI 
 
 <div align="center">
 
-![Home Preview](PUT_HOME_PAGE_IMAGE_LINK_HERE)
+![Home Preview](https://github.com/ArianGhaderi99/Hotel-Reservation-Template/blob/main/screenshot/homescreen.png)
 
 </div>
 
@@ -39,7 +39,7 @@ The Home page introduces visitors to the platform with featured destinations, tr
 
 <div align="center">
 
-![Hotels Preview](PUT_HOTELS_PAGE_IMAGE_LINK_HERE)
+![Hotels Preview](https://github.com/ArianGhaderi99/Hotel-Reservation-Template/blob/main/screenshot/hotelscreen.png)
 
 </div>
 
