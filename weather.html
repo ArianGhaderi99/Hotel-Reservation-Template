@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Weather</title>
+<link rel="stylesheet" href="css/styles.css"/>
+<link rel="shortcut icon" href="Images/favicon.png" type="image/x-icon">
+</head>
+
+<body>
+
+<div class="navbar">
+
+  <div class="logo">TravelX Pro</div>
+
+  <div class="nav-links">
+    <a href="index.html" data-en="Home" data-fa="خانه">Home</a>
+    <a href="weather.html" data-en="Weather" data-fa="آب و هوا">Weather</a>
+    <a href="cities.html" data-en="Cities-Hotels" data-fa="هتل ها">Cities-Hotels</a>
+  </div>
+
+  <div class="nav-actions">
+    <button onclick="toggleDark()">🌙</button>
+    <button onclick="toggleLang()">EN/FA</button>
+  </div>
+
+</div>
+
+<div class="container">
+  <h2 data-en="Weather Forecast" data-fa="پیش‌بینی آب و هوا" class="t">Weather Forecast</h2>
+
+  <div class="grid weather-grid">
+
+    <div class="card"><h3>Baku</h3><p>🌤 26°C</p></div>
+    <div class="card"><h3>Dubai</h3><p>☀️ 38°C</p></div>
+    <div class="card"><h3>London</h3><p>🌧 14°C</p></div>
+    <div class="card"><h3>Paris</h3><p>⛅ 18°C</p></div>
+    <div class="card"><h3>Istanbul</h3><p>🌤 22°C</p></div>
+    <div class="card"><h3>New York</h3><p>🌬 20°C</p></div>
+    <div class="card"><h3>Tokyo</h3><p>🌦 19°C</p></div>
+    <div class="card"><h3>Berlin</h3><p>🌤 17°C</p></div>
+    <div class="card"><h3>Madrid</h3><p>☀️ 30°C</p></div>
+    <div class="card"><h3>Tehran</h3><p>🌤 28°C</p></div>
+
+  </div>
+</div>
+
+<script src="js/script.js"></script>
+</body>
+</html>
+
+
